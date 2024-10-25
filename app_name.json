@@ -180,5 +180,18 @@
   "com.oplus.vdc": "外设融合框架",
   "com.realme.aiengine": "AiEngine",
   "com.oplus.blur": "PostEffect",
+  "com.oplus.aiwidgets": "智慧控件",
+  "com.oplus.keyguard.clock.base": "经典主题",
+  "com.oplus.keyguard.clock.gallery": "灵感相框",
+  "com.oplus.keyguard.clock.graffiti": "动感画册",
+  "com.oplus.keyguard.clock.magazine": "态度杂志",
+  "com.oplus.privacysandbox": "隐私沙箱",
+  "com.android.systemui.overlay.fingerprint.anim.halo": "光晕",
+  "com.android.systemui.overlay.fingerprint.anim.qy": "轻盈",
+  "com.oplus.pscanvas": "多窗口",
+  "com.yuemeng.speechsuite": "语音设置",
+  "com.oplus.mediacontroller": "OplusMediaController",
+  "com.oplus.systemui.plugins": "SystemUIPlugin",
+  "com.unionpay.tsmservice": "银联可信安全组件",
   "com.coloros.ocs.opencapabilityservice": "OpenCapabilityService"
 }
