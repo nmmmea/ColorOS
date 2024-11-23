@@ -86,8 +86,8 @@ jobs:
         name: Special_apk
         path: |
           output_apk/OplusLanuncher.apk
-          output_apk/Settings
-          output_apk/base
+          output_apk/Settings.apk
+          output_apk/Battery.apk
           output_apk/PhoneManager.apk
                   
     - name: Get version
