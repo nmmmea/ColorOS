@@ -19,7 +19,7 @@
 1. 克隆此仓库或下载脚本文件：
 
    ```
-   https://github.com/WXies-Team/EMRA-For-ColorOS.git
+   .git
    ```
 
 2. 确保已安装 Python 3.x, aria2c, 7z 并配置好环境变量后(具体方法可百度 Windows/Linux/macOS 如何安装 xxx 并配置环境变量)安装以下依赖库：
@@ -56,15 +56,3 @@
     -m, --update-name     更新 APK 名称
     -c, --clean           删除不需要的文件和文件夹
 ```
-
-## 相关项目
-
-[EMRA For Flyme](https://github.com/WXies-Team/EMRA-For-Flyme)
-
-[EMRA For ColorOS](https://github.com/WXies-Team/EMRA-For-ColorOS)
-
-[EMRA For OriginOS](https://github.com/WXies-Team/EMRA-For-OriginOS)
-
-[EMRA For HyperOS](https://github.com/WXies-Team/EMRA-For-HyperOS)
-
-[EMRA For RedMagicOS](https://github.com/WXies-Team/EMRA-For-RedMagicOS)
