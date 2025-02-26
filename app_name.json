@@ -193,5 +193,6 @@
   "com.oplus.mediacontroller": "OplusMediaController",
   "com.oplus.systemui.plugins": "SystemUIPlugin",
   "com.unionpay.tsmservice": "银联可信安全组件",
+  "com.oplus.remotecontrol": "远程控制电脑",
   "com.coloros.ocs.opencapabilityservice": "OpenCapabilityService"
 }
