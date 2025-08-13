@@ -43,6 +43,7 @@ DeviceStatisticsService.apk
 DownloadProvider.apk
 dpmserviceapp.apk
 DSF.apk
+DcService.apk
 EidService.apk
 EngineerMode.apk
 Entitlement.apk
