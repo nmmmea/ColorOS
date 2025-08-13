@@ -29,6 +29,7 @@ com.android.SystemUIResOverlay.22825.apk
 com.oplus.gpudrivers.sm8250.api30.apk
 com.oplus.vulkanLayer.apk
 com.qualcomm.location.apk
+CallLogBackup.apk
 ConfigUpdater.apk
 ConfigUpdaterCN.apk
 CrashBox.apk
