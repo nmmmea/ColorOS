@@ -105,7 +105,7 @@
   "com.coloros.findmyphone": "查找",
   "com.oplus.cast": "手机投屏",
   "com.oplus.account": "账号中心",
-  "com.oplus.apprecover": "系统可卸载应用找回(找回系统应用)",
+  "com.oplus.apprecover": "系统可卸载应用找回",
   "com.oplus.metis": "智慧决策服务",
   "com.heytap.mydevices": "设备空间",
   "com.oplus.ocar": "Car+ 车联",
@@ -200,5 +200,6 @@
   "com.oplus.aiplaymate": "AI Gaming Coach",
   "com.oplus.riderMode": "高能户外模式",
   "com.realme.colorx": "图形增强服务-realme",
+  "com.oplus.devicesettings": "设备服务",
   "com.coloros.ocs.opencapabilityservice": "OpenCapabilityService"
 }
