@@ -52,7 +52,7 @@
   "com.coloros.directui": "小布识屏",
   "com.oplus.cosa": "应用增强服务",
   "com.oplus.cardigitalkey": "数字车钥匙服务",
-  "com.coloros.digitalwellbeing": "数字健康(数字健康与家人守护)",
+  "com.coloros.digitalwellbeing": "数字健康与家人守护",
   "com.oplus.encryption": "私密保险箱",
   "com.coloros.floatassistant": "悬浮球",
   "com.coloros.healthcheck": "常规检测",
@@ -86,7 +86,7 @@
   "cn.wps.moffice.lite": "文件随心开（WPS定制版）",
   "com.coloros.familyguard": "家人守护(家庭空间)",
   "com.coloros.filemanager": "文件管理",
-  "com.heytap.health": "健康",
+  "com.heytap.health": "OPPO 健康",
   "com.oneplus.member": "我的一加",
   "com.coloros.soundrecorder": "录音",
   "com.oneplus.brickmode": "禅定空间",
@@ -201,5 +201,8 @@
   "com.oplus.riderMode": "高能户外模式",
   "com.realme.colorx": "图形增强服务-realme",
   "com.oplus.devicesettings": "设备服务",
+  "com.oplus.aimemory": "小布记忆",
+  "com.oplus.rom": "小真",
+  "com.oplus.rom.server": "RomServer",
   "com.coloros.ocs.opencapabilityservice": "OpenCapabilityService"
 }
