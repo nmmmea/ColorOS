@@ -201,3 +201,4 @@ OplusFlexibleWindowUI.apk
 NtnSatApp.apk
 xrwifiservice.apk
 Xpan.apk
+QtiTelephony.apk
