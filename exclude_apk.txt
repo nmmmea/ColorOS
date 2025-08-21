@@ -45,7 +45,6 @@ dpmserviceapp.apk
 DSF.apk
 DcService.apk
 EidService.apk
-EngineerMode.apk
 Entitlement.apk
 Ether.apk
 Fido2ClientCN.apk

@@ -189,6 +189,13 @@
   "com.oplus.privacysandbox": "隐私沙箱",
   "com.android.systemui.overlay.fingerprint.anim.halo": "光晕",
   "com.android.systemui.overlay.fingerprint.anim.qy": "轻盈",
+  "com.android.systemui.overlay.fingerprint.anim.ccyh": "绽放",
+  "com.android.systemui.overlay.fingerprint.anim.xw": "漩涡",
+  "com.android.systemui.overlay.fingerprint.anim.sw": "水纹",
+  "com.android.systemui.overlay.fingerprint.anim.none": "无动画",
+  "com.android.systemui.overlay.fingerprint.anim.xklc": "涟漪",
+  "com.android.systemui.overlay.fingerprint.anim.jslz": "激荡",
+  "com.android.systemui.overlay.fingerprint.anim.fy": "浮游",
   "com.oplus.pscanvas": "多窗口",
   "com.yuemeng.speechsuite": "语音设置",
   "com.oplus.mediacontroller": "OplusMediaController",
@@ -204,5 +211,6 @@
   "com.oplus.aimemory": "小布记忆",
   "com.oplus.rom": "小真",
   "com.oplus.rom.server": "RomServer",
+  "com.oplus.engineercamera": "工模相机",
   "com.coloros.ocs.opencapabilityservice": "OpenCapabilityService"
 }
